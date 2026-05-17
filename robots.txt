@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://carelesswhisp.github.io/notes-iipdf0/sitemap.xml
